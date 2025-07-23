@@ -1,0 +1,2 @@
+# SQL--Infosys-Global-Client-Insights-Revenue-Optimization
+This project uses Microsoft SQL Server to perform **Exploratory Data Analysis (EDA)** and business-focused querying on a dataset of 10,000+ international clients from Infosys Ltd.  It is split into two real-world case studies: - **Case Study 1:** Country-level revenue trends - **Case Study 2:** Industry-level performance and workload management
